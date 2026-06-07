@@ -14,11 +14,11 @@
 
 ## 🧠 About Me
 
-I'm a **Master of Data Science** graduate from **RMIT University, Melbourne** with a strong foundation in machine learning, NLP, time series forecasting, and full-stack data applications. I'm passionate about transforming raw data into actionable insights and building end-to-end intelligent systems — from data pipelines to deployed ML products.
+I'm a **Master of Data Science** graduate from **RMIT University, Melbourne, Australia** with a strong foundation in machine learning, NLP, time series forecasting, and full-stack data applications. I'm passionate about transforming raw data into actionable insights and building end-to-end intelligent systems — from data pipelines to deployed ML products.
 
-- 🎓 **M.Data Science** — RMIT University, Melbourne *(GPA: 3.3)*
+- 🎓 **Master of Data Science** — RMIT University, Melbourne *(GPA: 3.3)*
 - 🎓 **B.E. Information Technology** — Muffakham Jah College of Engineering & Technology, Hyderabad *(GPA: 8.7 / 10)*
-- 📍 Based in **Melbourne, Australia**
+- 📍 Based in **Melbourne, Victoria, Australia**
 - 💼 Open to **Data Scientist**, **ML Engineer**, and **Data Analyst** roles
 
 ---
@@ -123,9 +123,9 @@ An interactive **Power BI dashboard** targeting job seekers, career transitioner
 
 | Certification | Issuer |
 |---|---|
-| ☁️ Microsoft Certified: Azure Data Fundamentals | Microsoft |
-| 📈 Time Series Analysis and Forecasting using Python | Udemy |
-| 📊 Data Analyst Skillpath: Zero to Hero in Excel, SQL & Python | Udemy |
+| ☁️ [Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/en-us/users/mohammedjunaidazhar-9669/credentials/635b52b29dfe8785?ref=https%3A%2F%2Fwww.linkedin.com%2F) | Microsoft |
+| 📈 [Time Series Analysis and Forecasting using Python](https://www.udemy.com/certificate/UC-b1705f52-6c17-499d-97fa-d59d0ff2a27b/) | Udemy |
+| 📊 [Data Analyst Skillpath: Zero to Hero in Excel, SQL & Python](https://www.udemy.com/certificate/UC-302c5931-c858-4b97-9190-ca58862a915c/) | Udemy |
 
 ---
 
