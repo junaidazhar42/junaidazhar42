@@ -101,7 +101,7 @@ Built an **NL2SQL application** that lets users query a BMW sales database (2010
 
 ---
 
-### 🔷 [Curu Skincare Analysis & Dashboard — Postgraduate WIL Project](https://github.com/junaidazhar42)
+### 🔷 [Curu Skincare Analysis & Dashboard — Postgraduate WIL Project](https://github.com/junaidazhar42/Curu-Product-Review-Analytics-OpenAI-LLM)
 > *NLP · OpenAI GPT-3.5 · Sentiment Analysis · Industry Project*
 
 Industry project for **Curu Pvt Ltd Australia** as part of RMIT's Work Integrated Learning program. Built an end-to-end NLP analytics platform processing skincare product reviews from **Amazon, Myer, Mecca, and Chemist Warehouse**. Combined **VADER sentiment analysis** for classification with **OpenAI GPT-3.5 Turbo** for qualitative insight generation, theme identification, and skin-type-based segmentation. Delivered an interactive **Streamlit + Plotly** dashboard enabling data-driven skincare decisions.
